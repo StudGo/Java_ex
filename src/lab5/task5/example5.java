@@ -8,16 +8,10 @@ public class example5 {
             this.value = 0;
         }
         Test(int value) {
-            this.value = value;
-            if(value>100) {
-                this.value = 100;
-            }
+            this.value = Math.min(value, 100);
         }
         public void setValue (int value) {
-            this.value = value;
-            if(value>100) {
-                this.value = 100;
-            }
+            this.value = Math.min(value, 100);
         }
         public void setValue() {
             this.value = 0;
@@ -40,6 +34,5 @@ public class example5 {
         System.out.println("Вызов метода с аргументом 123");
         t1.setValue(123);
         System.out.println("Значение: " + t1.getValue());
-
     }
 }
