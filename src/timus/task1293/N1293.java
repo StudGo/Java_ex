@@ -14,23 +14,23 @@ N прямоугольных панелей размером A на B метро
  */
 package timus.task1293;
 
+import java.io.PrintWriter;
 import java.util.Scanner;
 
 public class N1293 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
+        PrintWriter out = new PrintWriter(System.out);
 
-        System.out.println("Введите исходные данные");
         int N = in.nextInt();
 
         int A = in.nextInt();
 
         int B = in.nextInt();
+        int result = N*A*B*2;
 
-
-        System.out.println("На обработку всех панелей необходимо " + N*A*B*2 + " нанограмм сульфида");
-
-        in.close();
+        out.println(result);
+        out.flush();
     }
 
 }
