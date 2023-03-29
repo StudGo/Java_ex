@@ -38,7 +38,7 @@ public class DeleteBook {
                     new javax.xml.transform.stream.StreamResult(new File ("src/lab10/example1/example.xml"));
             transformer.transform(source,result);
 
-            System.out.println("Удалили первую книгу в списке");
+            System.out.println("Удалили первую книгу");
         }
         catch (Exception ex)
         {
