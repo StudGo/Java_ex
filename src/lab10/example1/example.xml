@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library>
+                
+    
+    
+            
+    
+    
+    <book>
+                                
+        
+        
+        <title>Мастер и Маргарита</title>
+                                
+        
+        
+        <author>Михаил Булгаков</author>
+                                
+        
+        
+        <year>1967</year>
+                            
+    
+    
+    </book>
+                
+    
+    
+    <book>
+                                
+        
+        
+        <title>1984</title>
+                                
+        
+        
+        <author>Джордж Оруэлл</author>
+                                
+        
+        
+        <year>1949</year>
+                            
+    
+    
+    </book>
+                
+    
+    
+    <book>
+                                
+        
+        
+        <title>автостопом по Галактике</title>
+                                
+        
+        
+        <author>Дуглас Адамс</author>
+                                
+        
+        
+        <year>1979</year>
+                            
+    
+    
+    </book>
+                
+    
+    
+    <book>
+                                
+        
+        
+        <title>test</title>
+                                
+        
+        
+        <author>test</author>
+                                
+        
+        
+        <year>test</year>
+                            
+    
+    
+    </book>
+                
+    
+    
+    <book>
+                                
+        
+        
+        <title>test2</title>
+                                
+        
+        
+        <author>test2</author>
+                                
+        
+        
+        <year>test2</year>
+                            
+    
+    
+    </book>
+            
+    
+    
+    <book>
+                        
+        
+        <title>test3</title>
+                        
+        
+        <author>test3</author>
+                        
+        
+        <year>test3</year>
+                    
+    
+    </book>
+        
+    
+    <book>
+                
+        <title>testim</title>
+                
+        <author>testim</author>
+                
+        <year>1999</year>
+            
+    </book>
+    
+</library>
