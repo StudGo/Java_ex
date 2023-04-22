@@ -20,7 +20,7 @@ public class example7 {
 
     private static long getRunningTimeDeque(ArrayDeque<Integer> list) {
 
-        for (int i = 0; i < (13 * 1000000); i++) {
+        for (int i = 0; i < (13 * 1000000000); i++) {
             list.add(i);
         }
 
